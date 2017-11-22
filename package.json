@@ -1,0 +1,16 @@
+{
+  "name": "handmade",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Very simplistic theme/syntax for Atom.io",
+  "keywords": [
+    "simplistic",
+    "simple",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/handmade",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
