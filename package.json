@@ -1,7 +1,7 @@
 {
   "name": "handmade",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Very simplistic theme/syntax for Atom.io",
   "keywords": [
     "simplistic",
